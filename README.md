@@ -1,9 +1,10 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/tushardhawale123/-tushardhawale123/main/banner.png" alt="Tushar Dhawale - Data Analyst" width="100%">
   
   # Tushar Dhawale
   ### Data Analyst | SQL Developer | Power BI Enthusiast
   
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tushar-dhawale-28oct2000)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-dhawale-28oct2000/)
   [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushardhawale123@gmail.com)
 </div>
 
@@ -103,7 +104,7 @@ I'm eager to collaborate on data projects and explore new opportunities in data 
 
 <div align="center">
   
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushardhawale/)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-dhawale-28oct2000/)
   [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   
 </div>
