@@ -2,15 +2,18 @@
   <img src="https://raw.githubusercontent.com/tushardhawale123/-tushardhawale123/main/banner.png" alt="Tushar Dhawale - Data Analyst" width="100%">
   
   # Tushar Dhawale
-  ### Data Analyst | SQL Developer | Power BI Enthusiast
+  ### Data Analyst | SQL Developer | Power BI Specialist
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-dhawale-28oct2000/)
   [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushardhawale123@gmail.com)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tushardhawale123)
 </div>
 
 ## 👨‍💻 About Me
 
-Hello! I'm a data analyst with a focus on SQL development and data visualization. Currently interning at IntelliBi Innovations in Pune, I specialize in transforming raw data into meaningful insights through SQL queries and Power BI dashboards. With a creative background in Animation and growing technical skills, I bring a unique perspective to data analysis and visualization.
+Hello! I'm a data analyst specializing in SQL development and Power BI visualization. Currently interning at IntelliBi Innovations in Pune, I transform complex datasets into actionable business insights through interactive dashboards and comprehensive reports. My expertise lies in designing dimensional models, writing optimized SQL queries, and crafting visually appealing Power BI solutions that drive decision-making.
+
+With a background in animation and a passion for data storytelling, I bring a unique perspective to data visualization that combines analytical rigor with creative presentation.
 
 ## 🛠️ Technical Skills
 
@@ -19,22 +22,36 @@ Hello! I'm a data analyst with a focus on SQL development and data visualization
   ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
 
 ### Technical Proficiencies:
-- **SQL Development**: Queries, Joins, Stored Procedures, Indexing, Normalization
-- **Data Analysis**: Data cleaning, transformation, and exploratory analysis
-- **Visualization**: Creating dashboards and reports in Power BI
-- **Basic Programming**: Foundational Python skills for data manipulation
+- **SQL Development**: Complex queries, joins, stored procedures, views, indexing, performance optimization
+- **Data Modeling**: Star schema design, dimensional modeling, fact/dimension table creation
+- **Power BI**: Dashboard creation, DAX measures, calculated columns, custom visuals, data modeling
+- **ETL**: Data extraction, transformation, and loading processes
+- **Data Analysis**: Statistical analysis, trend identification, anomaly detection, forecasting
+- **Visualization**: Creating intuitive, interactive, and insightful visual representations of data
+- **Python**: Data manipulation with Pandas, visualization with Matplotlib/Seaborn
 
 ## 📊 Featured Projects
 
+### [AdventureWorks Analysis](https://github.com/tushardhawale123/AdventureWorks_Analysis)
+A comprehensive Power BI solution analyzing Microsoft's AdventureWorks database with SQL-driven star schema modeling. Includes executive dashboards for sales performance, inventory management, product profitability, and customer segmentation analysis.
+
+<p align="center">
+  <a href="https://github.com/tushardhawale123/AdventureWorks_Analysis">
+    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
+</p>
+
 ### [International Debt Statistics Dashboard](https://github.com/tushardhawale123/International-Debt-Statistics)
-A comprehensive analysis of international debt statistics across regions using SQL Server and Power BI. Features regional comparison, trend analysis, and detailed country-level insights.
+A comprehensive analysis of international debt statistics across regions using SQL Server and Power BI. Features regional comparison, trend analysis, and detailed country-level debt insights with interactive filtering.
 
 <p align="center">
   <a href="https://github.com/tushardhawale123/International-Debt-Statistics">
@@ -43,7 +60,7 @@ A comprehensive analysis of international debt statistics across regions using S
 </p>
 
 ### [Leukemia Data Analysis](https://github.com/tushardhawale123/Leukemia-Data-Analysis)
-Power BI dashboard analyzing leukemia cases with insights on patient demographics, WBC counts, and family history impact. Includes SQL pre-processing for data preparation.
+Power BI dashboard analyzing leukemia cases with insights on patient demographics, WBC counts, and family history impact. Includes SQL pre-processing for data preparation and custom themes for professional visualization.
 
 <p align="center">
   <a href="https://github.com/tushardhawale123/Leukemia-Data-Analysis">
@@ -52,7 +69,7 @@ Power BI dashboard analyzing leukemia cases with insights on patient demographic
 </p>
 
 ### [Layoffs Analysis Dashboard](https://github.com/tushardhawale123/layoffs-analysis)
-An interactive dashboard analyzing layoff trends across industries, regions, and time periods using a cleaned dataset and visualized in Power BI.
+An interactive dashboard analyzing global layoff trends across industries, regions, and time periods. Provides insights into company size impact, industry patterns, and geographic distribution of workforce reductions.
 
 <p align="center">
   <a href="https://github.com/tushardhawale123/layoffs-analysis">
@@ -61,7 +78,7 @@ An interactive dashboard analyzing layoff trends across industries, regions, and
 </p>
 
 ### [Insurance Claim Report](https://github.com/tushardhawale123/Insurance-Claim-Report)
-A detailed analysis of insurance claims data with SQL processing to identify patterns and optimize claim handling processes.
+A detailed analysis of insurance claims data with SQL processing to identify patterns in claim frequency, value, and processing times. Features demographic analysis and risk profiling to optimize claim handling processes.
 
 <p align="center">
   <a href="https://github.com/tushardhawale123/Insurance-Claim-Report">
@@ -79,10 +96,12 @@ A detailed analysis of insurance claims data with SQL processing to identify pat
 ## 💼 Professional Experience
 
 - **Data Analyst Intern** at IntelliBi Innovations, Pune (Present)
-  - Developing SQL queries and reports for business intelligence
-  - Creating dashboards in Power BI for data visualization
-  - Collaborating with cross-functional teams for data-driven insights
-  - Supporting ETL processes and data cleaning procedures
+  - Develop SQL queries and stored procedures for data extraction and transformation
+  - Create interactive Power BI dashboards with DAX measures for business intelligence
+  - Implement star schema models for optimal data analysis
+  - Work with cross-functional teams to identify KPIs and deliver actionable insights
+  - Automate reporting processes using SQL Server Integration Services
+  - Perform data quality assurance and cleansing procedures
 
 ## 📚 Education & Certifications
 
@@ -91,23 +110,27 @@ A detailed analysis of insurance claims data with SQL processing to identify pat
   - Savitribai Phule Pune University (SPPU)
   - Graduated: October 2022
 
+
 ## 🌱 Currently Learning
 
-- Advanced Power BI techniques
-- Data modeling best practices
-- Intermediate Python for data analysis
-- DAX formulas and measures
+- Advanced DAX formulas and time intelligence functions
+- Star schema optimization techniques for large datasets
+- Data modeling best practices for enterprise-level solutions
+- Power Query M language for complex data transformations
+- Azure Data Factory for cloud-based ETL processes
+- R for statistical analysis and data visualization
 
 ## 🤝 Let's Connect!
 
-I'm eager to collaborate on data projects and explore new opportunities in data analysis and business intelligence.
+I'm eager to collaborate on data projects and explore new opportunities in data analysis, business intelligence, and SQL development. Whether you need help with a Power BI dashboard or have an interesting data challenge, feel free to reach out!
 
 <div align="center">
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-dhawale-28oct2000/)
   [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushardhawale123@gmail.com)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tushardhawale123)
   
 </div>
 
 ---
-<p align="center">📊 This README was last updated on 2025-04-20.</p>
+<p align="center">📊 This README was last updated on 2025-04-29.</p>
