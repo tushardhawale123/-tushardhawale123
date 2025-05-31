@@ -24,6 +24,8 @@ With a background in animation and a passion for data storytelling, I bring a un
   ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
   ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -86,6 +88,15 @@ A detailed analysis of insurance claims data with SQL processing to identify pat
   </a>
 </p>
 
+### [Instacart Analytics Project](https://github.com/tushardhawale123/instacart-analytics-project)
+A data analytics project using Jupyter Notebooks and Azure Databricks to analyze Instacart’s online grocery dataset. Explores customer purchasing patterns, product trends, and basket analysis with advanced data processing and visualization.
+
+<p align="center">
+  <a href="https://github.com/tushardhawale123/instacart-analytics-project">
+    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
+  </a>
+</p>
+
 ## 📊 My GitHub Stats
 
 <div align="center">
@@ -133,4 +144,4 @@ I'm eager to collaborate on data projects and explore new opportunities in data 
 </div>
 
 ---
-<p align="center">📊 This README was last updated on 2025-04-29.</p>
+<p align="center">📊 This README was last updated on 2025-05-31.</p>
