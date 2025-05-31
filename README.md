@@ -52,14 +52,6 @@ A comprehensive Power BI solution analyzing Microsoft's AdventureWorks database 
   </a>
 </p>
 
-### [International Debt Statistics Dashboard](https://github.com/tushardhawale123/International-Debt-Statistics)
-A comprehensive analysis of international debt statistics across regions using SQL Server and Power BI. Features regional comparison, trend analysis, and detailed country-level debt insights with interactive filtering.
-
-<p align="center">
-  <a href="https://github.com/tushardhawale123/International-Debt-Statistics">
-    <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View Project">
-  </a>
-</p>
 
 ### [Leukemia Data Analysis](https://github.com/tushardhawale123/Leukemia-Data-Analysis)
 Power BI dashboard analyzing leukemia cases with insights on patient demographics, WBC counts, and family history impact. Includes SQL pre-processing for data preparation and custom themes for professional visualization.
